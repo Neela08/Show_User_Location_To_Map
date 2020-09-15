@@ -10,3 +10,9 @@ create an api key Then copy the key
 and replace it with "Your Api" in the same file.
 
 N.B. For building the app from scratch, choose Google Map Activity 
+
+
+Screen Shot of the app
+
+![Screenshot_20200916-024315_User_Location_To_Map](https://user-images.githubusercontent.com/69322639/93262981-ec674e80-f7c6-11ea-8dfc-e070859eceec.jpg)
+
